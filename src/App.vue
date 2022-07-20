@@ -137,7 +137,7 @@ onMounted(() => {
         </button>
         <div>
           <span class="text-xs text-gray-400 block"
-            >Use r or click 👆🏽 to reset</span
+            >TIP: You can also click 'r' to reset</span
           >
         </div>
       </div>
